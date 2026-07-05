@@ -99,11 +99,11 @@ IntelliTraffic AI is an AI-powered Smart Traffic Management Platform designed fo
 
 ## Database
 
-- Firebase Firestore
+- supabase store
 
 ## Authentication
 
-- Firebase Authentication
+- supa base Authentication
 
 Supports:
 
